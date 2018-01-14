@@ -1,7 +1,1 @@
 ss=1
-
-x=/{application}/{profile}[/{label}]
-x2=/{application}-{profile}.yml
-x3=/{label}/{application}-{profile}.yml
-x4=/{application}-{profile}.properties
-x5=/{label}/{application}-{profile}.properties
